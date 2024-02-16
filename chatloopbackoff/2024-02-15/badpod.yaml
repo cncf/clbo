@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: broken-pod
+  namespace: default
+spec:
+  containers:
+    - name: broken-pod
+      image: nginx:1.a.b.c
+      livenessProbe:
+        httpGet:
+          path: /
+          port: 81
+        initialDelaySeconds: 3
+        periodSeconds: 3
