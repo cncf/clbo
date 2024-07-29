@@ -1,8 +1,8 @@
-## Episode 23: [Volcano]
+## Episode 22: [Volcano]
 
 - Host: [Carlos Santana](https://github.com/csantanapr)
 - Date: 2024/08/01
-- Videos: [Playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2PnyOsrsCbR_kqjCKfPObHK), [Youtube Volcano](https://www.youtube.com/watch?REPLACEME), [LinkedIn Volcano](https://www.linkedin.com/events/chatloopbackoff-episode23-volca7221345502666051584/comments/)
+- Videos: [Playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2PnyOsrsCbR_kqjCKfPObHK), [Youtube Volcano](https://www.youtube.com/watch?v=Od1WcdPUg1o), [LinkedIn Volcano](https://www.linkedin.com/events/7223686732473327616/comments/)
 
 ### News
 
