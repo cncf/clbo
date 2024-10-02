@@ -28,12 +28,11 @@
     - [Intro To Volcano: Cloud Native Batch System - William Wang, Huawei Cloud (2022)](https://www.youtube.com/watch?v=xASlauMw2Bc)
     - [Efficient Multi-Cluster GPU Workload Management with Karmada and Volcano - Kevin Wang, Huawei (2024)](https://www.youtube.com/watch?v=fqERIe_qWLs)
   - Slack: CNCF `#volcano`
-  - Founders: [COMPANY 1](https://REPLACEME),  [COMPANY 2](https://REPLACEME)
+
 
 ### TODO / Questions / Musings
 
 - Getting Started with Volcano
-  - Install by ...
-  - Use it like this
-  - Open questions
-  - Interesting things
+  - Install like this https://volcano.sh/en/docs/installation/
+  - Use it like this https://volcano.sh/en/docs/tutorials/
+
