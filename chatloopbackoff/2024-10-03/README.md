@@ -19,6 +19,7 @@
   - Repo: https://github.com/kumahq/kuma
   - Website: https://kuma.io/
   - Videos
+    - [Kuma Tutorial by Henrik Rexed]()
     - [Kuma Community Calls](https://www.youtube.com/playlist?list=PLg_AhYkg50viOMrea6Nm3t9JCempVyLcj)
   - Slack: Join https://join.slack.com/t/kuma-mesh/shared_invite/zt-1tu98qcw4-pJNW9lRdBqx1I9kF9rvImA
   - Founders: [KONG](https://konghq.com/)
