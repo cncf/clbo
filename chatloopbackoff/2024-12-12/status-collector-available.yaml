@@ -1,0 +1,12 @@
+apiVersion: control.kubestellar.io/v1alpha1
+kind: StatusCollector
+metadata:
+  name: status-available
+spec:
+  groupBy:
+     - name: numAvailable
+       def: returned.status.availableReplicas
+  combinedFields:
+     - name: count
+       type: COUNT
+  limit: 10
