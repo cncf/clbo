@@ -1,4 +1,4 @@
-## Episode XX: KubeVela
+## Episode 43: KubeVela
 
 - Host: Andy Suderman
 - Date: 2025-01-23
