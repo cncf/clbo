@@ -2,17 +2,18 @@
 
 - Host: Chamod Perera
 - Date: 2024-03-13
-- Videos: [Playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2PnyOsrsCbR_kqjCKfPObHK), [Episode XX [PROJECT]](https://www.youtube.com/watch?REPLACEME)
+- Videos: [Playlist](https://www.youtube.com/playlist?list=PLj6h78yzYM2PnyOsrsCbR_kqjCKfPObHK), [Episode 50 [Tekton Pipelines]](https://www.youtube.com/live/vHnI_hty9zc?si=L0qD-OWHYE1fTesK)
 
 ### News
-
--  [REPLACE WITH SOME NEWS IN THE LAST WEEK](https://REPLACEME)
--  [REPLACE WITH SOME NEWS IN THE LAST WEEK](https://REPLACEME)
+- Tekton Pipeline released v0.70.0 "Norwegian Forest Cat Number Five (Aaron Doral)
+- Introduced structural OpenAPI schema to Tekton CRDs
+- Introduced set-security-context feature flag for Affinity Assistant containers
+- When enabled, Affinity Assistant pods now include a proper securityContext
 
 ### Summary
 
 - [PROJECT]
-  - CDF Graduated Project (since YYYY)
+  - CDF Graduated Project (since 2023)
   - What?
     - Tekton Pipelines is a Kubernetes-native way to build, test, and deploy your code across multiple cloud providers and on-premises clusters.
   - Why?
