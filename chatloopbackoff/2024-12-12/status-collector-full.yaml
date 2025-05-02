@@ -1,0 +1,13 @@
+apiVersion: control.kubestellar.io/v1alpha1
+kind: StatusCollector
+metadata:
+  name: status-full
+spec:
+  select:
+     - name: wec
+       def: inventory.name
+     - name: status
+       def: returned.status
+     - name: retrievalTime
+       def: propagation.lastReturnedUpdateTimestamp
+  limit: 10
